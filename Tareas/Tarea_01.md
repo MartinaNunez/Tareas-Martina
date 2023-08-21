@@ -1,6 +1,6 @@
-**Tarea_01 - Martina Jael Nuñez Quiroz** 
+## Tarea_01 - Martina Jael Nuñez Quiroz
 
-#CONCLUSIONES CLASE DEL 11 DE AGOSTO:
+# CONCLUSIONES CLASE DEL 11 DE AGOSTO:
 
 En primer lugar, para la primera clase del curso, las profesoras nos solicitaron formar grupos de tres personas con los que trabajaremos durante todo el semestre. Durante este proceso, nos brindaron aproximadamente 20 minutos para ponernos de acuerdo sobre el tema que abordaremos durante el semestre.
 Durante esos 20 minutos, mis dos compañeros (Juan Flores y Jorge Gálvez) y yo generamos una lluvia de ideas que nos interesaban personalmente a cada uno.
