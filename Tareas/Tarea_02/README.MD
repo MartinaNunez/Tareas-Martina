@@ -1,4 +1,4 @@
-## Tarea_02 - Martina Jael Nuñez Quiroz
+## Tarea_02 - Martina Jael Núñez Quiroz
 
 # PROGRAMAS PARA RESOLVER PROBLEMAS:
 
