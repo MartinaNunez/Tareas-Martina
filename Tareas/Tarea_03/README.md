@@ -8,7 +8,7 @@ __Selección del tema:__ Comencé por elegir un tema que realmente me apasionara
 
 __Diseño del proceso de recolección:__ Para recopilar los datos necesarios, consideré los 5 días de la semana en los que suelo llevar a cabo esta actividad en mis ensayos junto a mi grupo folclórico. Registré manualmente en papel las horas de inicio y finalización.
 
-__Recopilación de datos:__ Una vez que había registrado las horas de inicio y finalización a lo largo de la semana, que se distribuyeron de la siguiente manera: lunes (de 18:00 a 21:00 horas), martes (de 18:00 a 19:00 horas), miércoles (de 18:00 a 21:00 horas), jueves (de 18:00 a 22:00 horas) y viernes (de 17:00 a 22:00 horas), contaba con la información necesaria para la creación de mi archivo CSV.
+__Recopilación de datos:__ Una vez que había registrado las horas de inicio y finalización, que se distribuyeron de la siguiente manera: lunes (de 18:00 a 21:00 horas), martes (de 18:00 a 19:00 horas), miércoles (de 18:00 a 21:00 horas), jueves (de 18:00 a 22:00 horas) y viernes (de 17:00 a 22:00 horas), contaba con la información necesaria para la creación de mi archivo CSV.
 
 __Preparación del CSV:__ Organicé estos datos en un archivo CSV y, con la ayuda de Google Colaboratory, pude reestructurarlos. Creé un código que me permitió generar una tabla con 4 columnas: una para los días de la semana, una para las horas de inicio, otra para las horas finales y otra para las horas totales dedicadas a la danza. Asimismo, en el mismo código, incluí una fila que reflejaba el total de horas dedicadas a la danza a lo largo de los 5 días.
 
