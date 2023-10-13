@@ -4,7 +4,7 @@
 
 Para la tercera tarea, que implicaba la creación de un archivo CSV relacionado con una actividad de mi interés, procedí de la siguiente manera:
 
-__Selección del tema:__ Comencé por elegir un tema que realmente me apasionara, algo que me motivara para llevar a cabo el trabajo. Finalmente, opté por enfocarme en la actividad que más disfruto y practico con mayor frecuencia durante la semana: bailar cueca. Esta elección resultó ideal, ya que me permitía medir y cuantificar la cantidad de horas que dedico semanalmente a esta actividad. Registré día a día mis horas de inicio y final en relación con la actividad.
+__Selección del tema:__ Comencé por elegir un tema que realmente me apasionara, algo que me motivara para llevar a cabo el trabajo. Finalmente, opté por enfocarme en la actividad que más disfruto y practico con mayor frecuencia durante la semana: bailar cueca. Esta elección resultó ideal, ya que me permitía medir y cuantificar la cantidad de horas que dedico semanalmente a esta actividad.
 
 __Diseño del proceso de recolección:__ Para recopilar los datos necesarios, consideré los 5 días de la semana en los que suelo llevar a cabo esta actividad en mis ensayos junto a mi grupo folclórico. Registré manualmente en papel las horas de inicio y finalización.
 
