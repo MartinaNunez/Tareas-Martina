@@ -1,1 +1,3 @@
+# CSV - Tarea_03
 
+En esta carpeta se encuentra mi archivo CSV correspondiente a la tabla que he creado para mi Tarea 03. La tabla registra las horas semanales que dedico a la danza folclórica, una de mis actividades recreativas más frecuentes, ya que la practico 5 días a la semana. El archivo refleja tanto la hora de inicio como la hora de finalización de mis sesiones diarias, además del total de horas dedicadas.
